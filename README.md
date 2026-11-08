@@ -17,7 +17,7 @@ Python · FastAPI · PyTorch · TensorFlow · PostgreSQL · Docker · Git
 
 ## Featured projects
 
-Coming soon. Projects will be listed here as they are published.
+- [rag-doc-qa](https://github.com/zeinabshafiee/rag-doc-qa): multilingual RAG document Q&A with citations (work in progress)
 
 ## Get in touch
 
